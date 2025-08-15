@@ -23,7 +23,7 @@
           </ul>
           <div class="hotline">
             <i class="fas fa-phone-alt"></i>
-            <span>Hotline: +(32) 978 654 321</span>
+            <span>Hotline: +234 806 635 5255</span>
           </div>
           <button class="btn">Learn More</button>
         </div>

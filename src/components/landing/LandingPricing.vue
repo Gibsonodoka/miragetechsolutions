@@ -11,7 +11,7 @@
         <div class="pricing-card">
           <div class="card-header">
             <h3 class="service-name">Book Publishing</h3>
-            <div class="price">$500+</div>
+            <div class="price">From $500+</div>
           </div>
           <div class="card-body">
             <ul class="features">
@@ -28,7 +28,7 @@
         <div class="pricing-card">
           <div class="card-header">
             <h3 class="service-name">Branding Kits</h3>
-            <div class="price">$500+</div>
+            <div class="price">From $500+</div>
           </div>
           <div class="card-body">
             <ul class="features">
@@ -97,8 +97,8 @@
             </div>
             <div class="info-content">
               <h3>Email</h3>
-              <a href="mailto:miragebrandscontact@gmail.com"
-                >miragebrandscontact@gmail.com</a
+              <a href="mailto:info@miragetechsolutions.com"
+                >info@miragetechsolutions.com</a
               >
             </div>
           </div>
@@ -109,6 +109,7 @@
             </div>
             <div class="info-content">
               <h3>Phone</h3>
+              <a href="tel:08066355255">(080) 6635 5255</a>
               <a href="tel:08066355255">(080) 6635 5255</a>
             </div>
           </div>
