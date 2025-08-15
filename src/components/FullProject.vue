@@ -59,6 +59,7 @@ import book2 from "@/assets/images/books/book4.jpg";
 import book3 from "@/assets/images/books/book3.jpg";
 import book4 from "@/assets/images/books/book10.jpg";
 import book5 from "@/assets/images/books/book11.jpg";
+import book6 from "@/assets/images/books/book16.png";
 
 // Import mobile app images
 import project1 from "@/assets/projects/project1.png";
@@ -93,7 +94,7 @@ const projects = ref<Project[]>([
     image: book1,
     year: "2025",
     category: "Books",
-    link: "https://miragetechsolutions.com/projects/heros-heritage",
+    link: "https://miragetechsolutions.com",
   },
   {
     id: 2,
@@ -104,7 +105,7 @@ const projects = ref<Project[]>([
     image: book2,
     year: "2024",
     category: "Books",
-    link: "https://miragetechsolutions.com/projects/lemons-to-lemonade",
+    link: "https://miragetechsolutions.com",
   },
   {
     id: 3,
@@ -115,7 +116,7 @@ const projects = ref<Project[]>([
     image: book3,
     year: "2025",
     category: "Books",
-    link: "https://miragetechsolutions.com/projects/living-beyond",
+    link: "https://miragetechsolutions.com",
   },
   {
     id: 4,
@@ -126,7 +127,7 @@ const projects = ref<Project[]>([
     image: book4,
     year: "2024",
     category: "Books",
-    link: "https://miragetechsolutions.com/projects/getting-married",
+    link: "https://selar.co/m6348e",
   },
   {
     id: 5,
@@ -137,7 +138,18 @@ const projects = ref<Project[]>([
     image: book5,
     year: "2025",
     category: "Books",
-    link: "https://miragetechsolutions.com/projects/believers-provision",
+    link: "https://miragetechsolutions.com",
+  },
+  {
+    id: 8,
+    title: "Inspired to build",
+    subtitle: "Inspirational guide to personal growth",
+    result: "Published Book",
+    tags: ["Self-Help", "Motivation"],
+    image: book6,
+    year: "2025",
+    category: "Books",
+    link: "https://www.amazon.com/dp/B0DT1V1D7Y",
   },
   // Mobile Apps
   {
@@ -149,7 +161,7 @@ const projects = ref<Project[]>([
     image: project1,
     year: "2024",
     category: "Mobile App",
-    link: "https://miragetechsolutions.com/projects/ecommerce-app",
+    link: "https://miragetechsolutions.com",
   },
   {
     id: 7,
@@ -160,7 +172,7 @@ const projects = ref<Project[]>([
     image: project4,
     year: "2024",
     category: "Mobile App",
-    link: "https://miragetechsolutions.com/projects/whatsapp-video-status",
+    link: "https://miragetechsolutions.com",
   },
   // Web Apps
 
@@ -173,7 +185,7 @@ const projects = ref<Project[]>([
     image: project5,
     year: "2024",
     category: "Web App",
-    link: "https://miragetechsolutions.com/projects/event-web-app",
+    link: "https://miragetechsolutions.com",
   },
   {
     id: 10,
@@ -184,7 +196,7 @@ const projects = ref<Project[]>([
     image: project6,
     year: "2025",
     category: "Web App",
-    link: "https://miragetechsolutions.com/projects/gero-care",
+    link: "https://miragetechsolutions.com",
   },
 ]);
 

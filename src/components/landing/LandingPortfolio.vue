@@ -35,7 +35,7 @@
             />
             <div class="overlay">
               <div class="overlay-content">
-                <h3>Leadership Book</h3>
+                <h3>Book Publishing</h3>
                 <p>Publishing for an industry expert</p>
                 <router-link to="/projects" class="view-btn"
                   >View Project</router-link
@@ -69,9 +69,7 @@
   </section>
 </template>
 
-<script setup lang="ts">
-// No logic needed
-</script>
+<script setup lang="ts"></script>
 
 <style scoped lang="scss">
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap");
